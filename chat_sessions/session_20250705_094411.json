@@ -1,0 +1,33 @@
+{
+  "id": "session_20250705_094411",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who is the petitioner?"
+    },
+    {
+      "role": "assistant",
+      "content": "The petitioner is the cinema management.",
+      "citations": "Doc 1: -0___jonew__judis__1089.pdf (page 6), Doc 2: -0___jonew__judis__1089.pdf (page 6), Doc 3: -0___jonew__judis__1089.pdf (page 3), Doc 4: -0___jonew__judis__1089.pdf (page 9), Doc 5: -0___jonew__judis__1089.pdf (page 7)"
+    },
+    {
+      "role": "user",
+      "content": "who is the judge?"
+    },
+    {
+      "role": "assistant",
+      "content": "The judge is Sri Diwan Bahadur K. Ramaswami Sastri, a retired District and Sessions Judge. This determination is based on the context of the industrial dispute being referred to the tribunal for adjudication, as stated in the order of reference. The judge's role is to settle the issues in the light of a preliminary enquiry and then adjudicate on the said industrial dispute.",
+      "citations": "Doc 1: -0___jonew__judis__1089.pdf (page 3), Doc 2: -0___jonew__judis__1089.pdf (page 7), Doc 3: -0___jonew__judis__1089.pdf (page 1), Doc 4: -0___jonew__judis__1089.pdf (page 7), Doc 5: -0___jonew__judis__1089.pdf (page 8)"
+    },
+    {
+      "role": "user",
+      "content": "who are the parties involved"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the context, the parties involved in the dispute are the cinema management (petitioner) and their respective employees."
+    }
+  ],
+  "created_at": "2025-07-05T10:05:29.633726",
+  "last_updated": "2025-07-05T10:05:29.633726"
+}
